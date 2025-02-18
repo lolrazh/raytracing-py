@@ -1,5 +1,7 @@
 # GPU-Accelerated Ray Tracer in Python
 
+![image.png]
+
 A GPU-accelerated implementation of Peter Shirley's "Ray Tracing in One Weekend" using Python, CUDA, and Numba.
 
 ## Features
