@@ -172,20 +172,6 @@ Common issues and solutions:
    - Minimize divergent execution
    - Efficient memory access patterns
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Peter Shirley for the original "Ray Tracing in One Weekend" book
-- The Numba team for CUDA support in Python
-- The ray tracing community for various optimizations and insights
-
 ## References
 
 1. Shirley, Peter. "Ray Tracing in One Weekend"
